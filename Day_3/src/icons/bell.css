@@ -1,0 +1,21 @@
+.bell-icon {
+    position: relative;
+    display: inline-block;
+    justify-content: space-between;
+    margin-right: 10px;
+  }
+  
+  .bell {
+    font-size: 24px;
+  }
+  
+  .notification-dot {
+    position: absolute;
+    top: 0;
+    right: -2px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: red;
+  }
+  
